@@ -1,0 +1,102 @@
+{
+
+
+	"fitness": [{
+			"nameofchallange": "plank position", 
+			"photo": "https://images.pexels.com/photos/2294354/pexels-photo-2294354.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+			"description": "plank is so hard",
+			"winnernamefemale": "romita(1:30 min)",
+			"winnernamemale": "amit(2:02 min)",
+			"winnertimefemale": "1:30 min",
+			"winnertimemale": "2:02 min",
+			"protein": "7.2g",
+			"fat": "1.2g",
+			"Carbohydrates ": "38mg",
+			"Potassium ": "55mg",
+			"sodium ": "551mg",
+			"cholesterol": "0mg",
+
+			"Calories": "196",
+			"isveg": "veg and Nonveg"
+		},
+	
+	
+	{
+			"foodname": "Paneer Tikka Pizza",
+			"photo": "https://images.pexels.com/photos/2232/vegetables-italian-pizza-restaurant.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "Cottage cheese, grilled tender in home spices with the savoury flavour of pickled green chillies, onions and finely sliced capsicum. ",
+			"price": "199",
+			"Calories": "272",
+			"protein": "12.27g",
+			"Fat": "9.8g",
+			"Carbohydrates ": "27g",
+			"sodium ": "551mg",
+			"cholesterol": "14mg",
+			"serving": "Per Slice(100g)",
+			"catagory": "Starters And Appetisers",
+			"isveg": "veg and Nonveg"
+		},
+		{
+			"foodname": "biryani",
+			"photo": "https://as1.ftcdn.net/jpg/00/35/13/50/500_F_35135040_20zc9QsYjOAwTmT68UhFr8wGWiXb3wvv.jpg",
+			"description": "biryani is very delicious food ",
+			"price": "250",
+			"catagory": "Indian,Mains",
+
+			"protein": "20g",
+			"fat": "9.4g",
+			"Carbohydrates ": "31g",
+			"Potassium ": "462mg",
+			"sodium ": " 419mg",
+			"cholesterol": "48mg",
+			"serving": "Per cup(205g)",
+
+			"Calories": "292",
+			"isveg": "veg and Nonveg"
+		},
+		{
+			"foodname": "tacos",
+			"photo": "https://images.pexels.com/photos/674578/pexels-photo-674578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "tacos is very delicious food ",
+			"price": "120",
+			"catagory": "Maxican",
+
+			"protein": "9.4g",
+			"fat": "9.9g",
+			"Carbohydrates ": "21g",
+			"Potassium ": "164mg",
+			"sodium ": " 571mg",
+			"cholesterol": "26mg",
+			"serving": "Per taco(102g)",
+
+			"Calories": "210",
+			"isveg": "veg and Nonveg"
+		},
+		{
+			"foodname": "nachos with salsa sause",
+			"photo": "https://images.pexels.com/photos/1200354/pexels-photo-1200354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"description": "nachos is very delicious food ",
+			"price": "99",
+			"catagory": "Sides",
+
+			"protein": "67g",
+			"fat": "96g",
+			"Carbohydrates ": "26g",
+			"Potassium ": "1257mg",
+			"sodium ": "1744mg",
+			"cholesterol": "282mg",
+			"serving": "Per Order(550g)",
+
+			"Calories": "874",
+			"isveg": "veg and Nonveg"
+		}
+		
+	]
+
+
+
+
+
+
+
+}
