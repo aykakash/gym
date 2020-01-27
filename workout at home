@@ -1,0 +1,37 @@
+{
+
+
+	"shouts": [{
+			"partofbody": "ABS",
+			"sets": "20",
+			"photo": "https://i.imgur.com/G0eZlfG.gif",
+			"description": "This workout is for abs"
+
+		},
+		{
+		"partofbody": "ABS",
+			"sets": "20",
+			"photo": "https://gdurl.com/rsAc",
+			"description": "This workout is for abs"
+		},
+    {
+		"partofbody": "ABS",
+			"sets": "20",
+			"photo": "https://i.imgur.com/G0eZlfG.gif",
+			"description": "This workout is for abs"
+		},
+    {
+		"partofbody": "ABS",
+			"sets": "20",
+			"photo": "https://i.imgur.com/G0eZlfG.gif",
+			"description": "This workout is for abs"
+		},
+    {
+		"partofbody": "ABS",
+			"sets": "20",
+			"photo": "https://i.imgur.com/G0eZlfG.gif",
+			"description": "This workout is for abs"
+		}
+
+	]
+}
